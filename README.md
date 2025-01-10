@@ -1,4 +1,9 @@
 # UAS-PEMROGRAMAN-VISUAL-
 Nama : Faisal Arya Yudanto
+
 NIM : 312210555
+
 Kelas : TI.22.A5
+
+output
+https://github.com/faisalarya/UAS-PEMROGRAMAN-VISUAL-/blob/main/UJIAN%20AKHIR%20SEMESTER%20PEMORGRAM%20VISUAL%20DEKSTOP.pdf
